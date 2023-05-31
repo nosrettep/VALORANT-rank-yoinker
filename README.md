@@ -47,7 +47,7 @@
 2) Download the [source](https://github.com/isaacKenyon/VALORANT-rank-yoinker/archive/refs/heads/main.zip).
 3) Open a terminal within the source folder.
 4) `pip install -r requirements.txt`
-5) `main.py`
+5) `python main.py`
 
 ### Compiling from source:
 
